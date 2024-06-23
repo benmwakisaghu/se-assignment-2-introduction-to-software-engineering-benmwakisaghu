@@ -115,8 +115,25 @@ Bitbucket
 
 REFERENCE
 
-1) Michigan Technological University. (2023, November 2). What is software engineering? https://www.mtu.edu/cs/undergraduate/software/what/ 
+1) 02dce. (2024, April 10). Requirements Engineering Process in Software Engineering. GeeksforGeeks. https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/ 
+Atlassian. (2016, March 22). What is version control: Atlassian Git Tutorial. https://www.atlassian.com/git/tutorials/what-is-version-control 
 
-2) GeeksforGeeks. (2023, December 5). What is sdlc(software development life cycle) and its phases. https://www.geeksforgeeks.org/what-is-sdlc-model-and-its-phases/ 
+2) Computer.org. (2024, January 26). The importance of software testing. IEEE Computer Society. https://www.computer.org/resources/importance-of-software-testing 
 
-3) Kamil Jędrzejko, K. (2024, April 15). The Importance of Software Requirements Engineering in IT Projects. Software Mind. https://softwaremind.com/blog/software-requirements-engineering-the-driving-force-behind-successful-and-efficient-it-projects/ 
+3) Davu, S. (2020, April 13). The four levels of software testing. Segue Technologies. https://www.seguetech.com/the-four-levels-of-software-testing/ 
+
+4) ITUonline.com. (2024, April 21). What is modularity in software design? - ITU online. ITU Online IT Training. https://www.ituonline.com/tech-definitions/what-is-modularity-in-software-design/#:~:text=Modularity%20is%20a%20fundamental%20design,the%20understandability%20of%20the%20system. 
+
+5) Kadivar, N. (2018, November 1). Top 10 version control systems. HackerNoon. https://hackernoon.com/top-10-version-control-systems-4d314cf7adea 
+
+6) Kamil Jędrzejko, K. (2024, April 15). The Importance of Software Requirements Engineering in IT Projects. Software Mind. https://softwaremind.com/blog/software-requirements-engineering-the-driving-force-behind-successful-and-efficient-it-projects/ 
+
+7) Lenovo.com. (2023, October 14). Modularity: What is it and how does it enhance business productivity?. Modularity: What is It and How Does it Enhance Business Productivity? | Lenovo IN. https://www.lenovo.com/in/en/glossary/modularity/ 
+
+8) Lockhart, L. (2023, February 15). Agile vs. waterfall: 10 key differences between the two methods. Agile vs. Waterfall: 10 Key Differences Between the Two Methods. https://www.float.com/resources/agile-vs-waterfall#:~:text=Delivery%3A%20Agile%20allows%20for%20quick,changes%20during%20the%20development%20process. 
+
+9) Michigan Technological University. (2023, November 2). What is software engineering? https://www.mtu.edu/cs/undergraduate/software/what/ 
+
+10) syedshifa299. (2023, December 5). What is sdlc(software development life cycle) and its phases. GeeksforGeeks. https://www.geeksforgeeks.org/what-is-sdlc-model-and-its-phases/ 
+
+11) Testsigma.com. (2023, August 18). Levels of testing: A complete approach to quality assurance. Testsigma Blog. https://testsigma.com/blog/levels-of-testing/ 
